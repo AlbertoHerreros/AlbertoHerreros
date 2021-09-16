@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlbertoHerreros
 - 👀 I’m interested in programming on different languages efficiently.
-- 🌱 I’m currently learning C/C++, Java, SQL, HTML, CSS and Javascript.
+- 🌱 I’m currently learning C/C++, Java....
 - 📫 Contact: albertoherrerosmag@gmail.com
 
 <!---
