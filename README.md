@@ -11,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="64" height="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" height="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64" height="64"/>
-  
+  <img src="https://progsoft.net/images/redmine-icon-ffd4f9d07c435ed00b97a2ce77141a05572adb73.png" width="64" height="64"/>
 </div>
 
 <!---
