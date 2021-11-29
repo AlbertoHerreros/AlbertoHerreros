@@ -3,9 +3,12 @@
 - 🌱 I’m currently learning C/C++, Java....
 - 📫 Contact: albertoherrerosmag@gmail.com
 
-<a href=""> <img src="https://img2.freepng.es/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg" alt="logo C" style="width:42px;height:42px;"> </a>
-<a href=""> <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" alt="logo C++" style="width:42px;height:42px;"> </a>
-
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="64" height="64"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="64" height="64"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64" height="64"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" height="64"/>
+</div>
 
 <!---
 AlbertoHerreros/AlbertoHerreros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
