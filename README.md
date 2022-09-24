@@ -1,17 +1,14 @@
 - 👋 Hi, I’m @AlbertoHerreros
-- 🎓 I'm currently studing at UJAEN (University of Jaén), where I'm learning C/C++, Java...
-- 👀 I’m interested in programming on different languages efficiently.
+- 🎓 I'm currently studing at UJAEN (University of Jaén)
 - 📫 Contact: albertoherrerosmag@gmail.com
 
 <h1>Skills:</h1>
 &nbsp;
 <div padding-left="64px">
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="64px" height="64px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="64px" height="64px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64px" height="64px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64px" height="64px"/>
-  <img src="https://progsoft.net/images/redmine-icon-ffd4f9d07c435ed00b97a2ce77141a05572adb73.png" width="64px" height="64px"/>
+  <img src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" width="64px" height="64px"/>
+  
 </div>
 
 <h1>Social networks</h1>
